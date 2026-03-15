@@ -8,11 +8,12 @@ A classic Rock-Paper-Scissors game developed in Python as part of my Business Ap
 - Input validation to ensure a smooth user experience.
 
 ## Game Demo
-Ecco una breve dimostrazione del flusso di gioco:
+Ecco una breve dimostrazione del flusso di gioco (5 round):
 
-<video src="https://github.com/mariomartins7gs/rock-paper-scissor-game/raw/main/rock_paper_scissor_game.mp4" controls="controls" style="max-width: 100%;">
-  Il tuo browser non supporta il video. [Scaricalo qui](./rock_paper_scissor_game.mp4)
-</video>
+<div align="center">
+  <video src="https://github.com/mariomartins7gs/rock-paper-scissor-game/raw/main/rock_paper_scissor_game.mp4" width="100%" controls>
+  </video>
+</div>
 
 ## 🛠️ How to run
 1. Clone the repository:
